@@ -16,19 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🧍‍♂️ Biography
+I graduated with a Bachelor's degree in Medical Information Engineering from Chengdu University of Traditional Chinese Medicine (Double First Class list of institutions). Currently, I am pursuing a Master's degree in Management Science and Engineering at Chengdu University of Technology (Double First Class list of institutions), with an expected graduation in June 2025.
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, computer programming languages, big data, and artificial intelligence—the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including operations research, game theory, system dynamics, spatial econometrics, resource economics, and managerial economics.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
 
 
 <span class='anchor' id='-xl'></span>
@@ -45,9 +37,10 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
--	`Zixuan Zhang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang.*Journal of Environment Management*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
--	Methods：Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
--	Results：From 2005 to 2020, TWSCC in the Yellow River Basin experienced overload, mostly in “Heavy warning” or “Medium warning” states. By 2035, improvements were observed under different pathways, with the comprehensive scenario showing a 15.3% increase from 2020. This study supports the enhancement of the basin carrying capacity and integrated governance of the Three Waters. 
+-	`Zixuan Zhang`, Rongbiao Wang, Gongzhe Qiu, Xudong Chen*.*Journal of Environment Management*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+**Keywords**: - Neural Dynamics Models - Stability Constraints - State-Space Models
+**Methods**: Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
+**Resluts**: From 2005 to 2020, TWSCC in the Yellow River Basin experienced overload, mostly in “Heavy warning” or “Medium warning” states. By 2035, improvements were observed under different pathways, with the comprehensive scenario showing a 15.3% increase from 2020. This study supports the enhancement of the basin carrying capacity and integrated governance of the Three Waters. 
 
 </div>
 </div>
