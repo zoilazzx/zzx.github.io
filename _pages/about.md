@@ -37,6 +37,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
 `Zixuan Zhang`, Rongbiao Wang, Gongzhe Qiu, Xudong Chen. *Journal of Environment Management*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
 -	**Keywords:** Neural Dynamics Models; Stability Constraints; State-Space Models
 - **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
