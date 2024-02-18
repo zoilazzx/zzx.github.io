@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About me"
-    url: "/page1/"
+    url: /page1/
     
   - title: "CV"
     url: "/zh-cn/#images"
