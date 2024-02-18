@@ -133,15 +133,11 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 # 📝 Projects
 <div>
   [Research on the Key Issues and Paths of the Systematic Transformation of Sichuan Province under the Dual Carbon Goal]
-•	Core Member; Supervisor: Xudong Chen, Vice President of the College of Management Science
-•	Key Contributions: 
--(1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
--(2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022. 
--(3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions. 
--(4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
-•	Achievements: Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation (Project funding: RMB200,000).
-</div>
 
+-**Core Member**; **Sponsor：** Xudong Chen, Vice President of the College of Management Science
+-**Key Contributions** (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province. (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022. (3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions. (4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
+-**Achievement：** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation (Project funding: RMB200,000).
+</div>
 
 ### 专利
 ---
