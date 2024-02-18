@@ -131,7 +131,8 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 - 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
 [[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
 # 📝 Projects
-[Research on the Key Issues and Paths of the Systematic Transformation of Sichuan Province under the Dual Carbon Goal]
+<div>
+  [Research on the Key Issues and Paths of the Systematic Transformation of Sichuan Province under the Dual Carbon Goal]
 •	Core Member; Supervisor: Xudong Chen, Vice President of the College of Management Science
 •	Key Contributions: 
 -(1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
@@ -139,6 +140,8 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 -(3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions. 
 -(4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
 •	Achievements: Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation (Project funding: RMB200,000).
+</div>
+
 
 ### 专利
 ---
